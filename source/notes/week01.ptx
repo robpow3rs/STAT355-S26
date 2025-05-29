@@ -4,9 +4,18 @@
     <article xml:id="notes">
         <section xml:id="notes-week-01">
         <title>Week 1</title>
-        <p>
-            This week we covered the following topics:
-        </p>
+        
+      <paragraphs component="instructor">
+        <title>Instructor Notes</title>
+        
+      </paragraphs> 
+
+<p>
+        An association exists between a categorical variable (location) and a numerical variable (high temperature), if the difference between the measures of center in relation to the measure of spread distinguishes the two datasets.
+</p>
+<p>
+    The difference between the two medians was 6.5 F. The IQRs of the high temperatures of the two locations was about 8.5 F. The proportion of the difference of center to spread was 0.76. There is some visual evidence to suggest that high temperature is associated with location since the box for Denver is shifted farther to the right. Later we will determine this numerically with hypothesis testing.
+</p>
 
         </section>
     </article>

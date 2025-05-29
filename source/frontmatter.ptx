@@ -4,21 +4,34 @@
 <!-- works. -->
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
-  <bibinfo>
+  <titlepage>
     <author>
-      <personname>Instructor Lastname</personname>
+      <personname>Robert Powers</personname>
       <department>Mathematical Sciences</department>
-      <institution>University of Templates</institution>
+      <institution>University of Northern Colorado</institution>
     </author>
     <date>
-      Last Updated: <today />
+      <today />
     </date>
-
-  </bibinfo>
-
-  <titlepage>
-    <titlepage-items/>
   </titlepage>
 
+  <colophon>
+
+    <website>
+      <url href="https://www.unco.edu/nhs/mathematical-sciences/faculty/powers.aspx">My Website</url>
+    </website>
+
+    <copyright>
+      <year>2025<ndash />2026</year>
+      <holder>Robert Powers</holder>
+      <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
+      </shortlicense>
+    </copyright>
+  </colophon>
+
+
+  <acknowledgement> <p> Thanks to all of my students</p>  </acknowledgement>
+
+  
 </frontmatter>
 
